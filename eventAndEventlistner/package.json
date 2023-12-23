@@ -1,0 +1,12 @@
+{
+  "name": "eventlistner",
+  "version": "1.0.0",
+  "description": "ioew",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai",
+  "license": "ISC"
+}
